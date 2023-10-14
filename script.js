@@ -1,1 +1,1 @@
-const x = 10;
+cosnst x = 10;
