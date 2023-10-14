@@ -1,0 +1,68 @@
+commit 945c76a24abcfc405cbbd84d7099594d7479438a
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sat Oct 14 23:12:29 2023 +0200
+
+    HW-1.2.3-created-help.md-and-did-ignored-it
+
+commit dce6fd554aa933300fe141959cdaba207527a2dd
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sat Oct 14 22:37:10 2023 +0200
+
+    HW-1.2.2-created-.gitignore
+
+commit 0b9e68f3fc2526376017b4ed8b27d0574c33ae26
+Merge: a83f3ac 1d61864
+Author: AnzhelikaBcn <147861072+AnzhelikaBcn@users.noreply.github.com>
+Date:   Sat Oct 14 19:13:01 2023 +0200
+
+    Merge pull request #1 from AnzhelikaBcn/brunch-from-gh
+    
+    Brunch from gh
+
+commit 1d61864390f613149e254d31224a91be4bd97f25
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sat Oct 14 19:04:55 2023 +0200
+
+    corrected a mistace of const
+
+commit 7b16f601eebd1b97d73d2c50f891eb027b1e42ce
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sat Oct 14 16:46:44 2023 +0200
+
+    fixed typo
+
+commit 9cba7c177825a17b66824b5dc7ccc9883739c0a5
+Author: AnzhelikaBcn <147861072+AnzhelikaBcn@users.noreply.github.com>
+Date:   Sat Oct 14 16:26:15 2023 +0200
+
+    Update const in script.js
+
+commit a83f3ac2373f24425fe6ab87a38b19146f94305c
+Author: AnzhelikaBcn <147861072+AnzhelikaBcn@users.noreply.github.com>
+Date:   Fri Oct 13 22:39:40 2023 +0200
+
+    Update README.md
+
+commit 90355de12dc74fa705062d97bf86409f498ac584
+Author: AnzhelikaBcn <147861072+AnzhelikaBcn@users.noreply.github.com>
+Date:   Fri Oct 13 22:31:32 2023 +0200
+
+    Update README.md
+
+commit 29d10b1a0fa372737b56744eaaa10e8be8100215
+Author: AnzhelikaBcn <147861072+AnzhelikaBcn@users.noreply.github.com>
+Date:   Fri Oct 13 19:27:06 2023 +0200
+
+    Update script.js
+
+commit fb35171b50555f37cc5dd63bbe92ac23dbeebea3
+Author: AnzhelikaBcn <147861072+AnzhelikaBcn@users.noreply.github.com>
+Date:   Fri Oct 13 19:25:25 2023 +0200
+
+    Create script.js
+
+commit 1b2bbcde8ff3caf011788ed3e95d94bfc610c6b2
+Author: AnzhelikaBcn <147861072+AnzhelikaBcn@users.noreply.github.com>
+Date:   Fri Oct 13 19:18:50 2023 +0200
+
+    Create README.md
